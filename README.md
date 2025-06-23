@@ -3,6 +3,6 @@ LUCID Dataset
 
 
 ### Proposed workflow:
-![Description](Figure%202.jpg.jpg)
+![Description](Figure 2.jpg.jpg)
 <br/>
 <br/>
